@@ -1,0 +1,4 @@
+1 create plots for magnetization and entropy in 1D
+2 compute mc average of energy and magnetization in 2D
+3 recode program using @jitclass to improve execution time
+4 maybe use MPI
